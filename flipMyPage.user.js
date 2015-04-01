@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        flipMyPage 
 // @namespace   http://www.vipexsoft.com
-// @description Flips horizontally the page
+// @description AprilFool script that flips horizontally everything in the page!
 // @include     http://*
 // @include     https://*
 // @version     0.1
