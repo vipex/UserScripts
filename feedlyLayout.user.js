@@ -29,7 +29,11 @@ addGlobalStyle('#feedlyFrame{ width:auto!important; } \
 .customizer .section{ display:block!important; } \
 .entryBody{ max-width:none!important; } \
 #feedlyPageHeader{ background-color:#FFFFFF!important; padding: 15px; border: 1px solid #EFEFEF; } \
-.u100Entry{ max-width:none!important; }');
+.u100Entry{ max-width:none!important; } \
+.fx .entry.u0.density-24 { height: 30px;} \
+.fx .entry.u0 .content .title { font-size: 15px; } \
+.fx .entry.u0.density-24:nth-child(even) {background-color: #eee;} \
+');
 
 /*
 .area{ background-color:#333333!important; border-color:#000000!important; } \
